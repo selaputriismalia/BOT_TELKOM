@@ -92,11 +92,6 @@ Efisiensi numerik tertentu belum dicantumkan sebagai hasil terverifikasi dalam d
 - Mendokumentasikan perintah bot, penanganan kesalahan, serta langkah instalasi setelah implementasi diverifikasi.
 - Menambahkan evaluasi efisiensi berdasarkan pengukuran yang dapat dipertanggungjawabkan.
 
-## Peran dan Konteks Proyek
-**Pengembang:** Sela Putri Ismalia  
-**Konteks:** Proyek otomasi selama pengalaman magang di lingkungan operasional jaringan.
 
-Fokus pembelajaran proyek ini adalah integrasi API, otomasi alur kerja, pengolahan data, dan pemanfaatan bot untuk mendukung kebutuhan operasional.
+**##Pengembang:** Sela Putri Ismalia  
 
----
-**Repository:** [BOT_TELKOM](https://github.com/selaputriismalia/BOT_TELKOM)
