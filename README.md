@@ -93,5 +93,5 @@ Efisiensi numerik tertentu belum dicantumkan sebagai hasil terverifikasi dalam d
 - Menambahkan evaluasi efisiensi berdasarkan pengukuran yang dapat dipertanggungjawabkan.
 
 
-##Pengembang: Sela Putri Ismalia  
+## Pengembang: Sela Putri Ismalia  
 
