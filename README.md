@@ -14,8 +14,6 @@ Bot Telegram berbasis Python yang dikembangkan dalam konteks kegiatan magang di 
 - [Teknologi](#teknologi)
 - [Gambaran Arsitektur](#gambaran-arsitektur)
 - [Manfaat](#manfaat)
-- [Batasan dan Catatan](#batasan-dan-catatan)
-- [Pengembangan Selanjutnya](#pengembangan-selanjutnya)
 - [Peran dan Konteks Proyek](#peran-dan-konteks-proyek)
 
 ## Latar Belakang
@@ -77,7 +75,15 @@ Hasil pemrosesan dikirim kembali ke pengguna
 - Berpotensi mengurangi langkah pencarian manual dan risiko kesalahan saat menyalin data.
 - Memberikan pengalaman akses data yang lebih praktis bagi pengguna operasional.
 
-Efisiensi numerik tertentu belum dicantumkan sebagai hasil terverifikasi dalam dokumentasi ini. Klaim seperti persentase penghematan waktu sebaiknya ditambahkan hanya jika tersedia catatan pengukuran atau pembandingan yang dapat dijelaskan.
+## Peran dan Konteks Proyek
+**Pengembang:** Sela Putri Ismalia  
+**Konteks:** Proyek otomasi dalam kegiatan magang di lingkungan operasional jaringan.
 
-## Pengembang: Sela Putri Ismalia  
+Proyek ini berfokus pada integrasi Telegram Bot API dan layanan Google API untuk membantu akses informasi jaringan melalui antarmuka percakapan.
+
+---
+**Repository:** [BOT_TELKOM](https://github.com/selaputriismalia/BOT_TELKOM)  
+**Topik:** Python · Otomasi Data · Integrasi API · Jaringan FTTH/FTTX
+
+<!-- removed old heading -->
 
