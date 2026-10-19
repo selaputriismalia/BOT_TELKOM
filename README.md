@@ -79,19 +79,5 @@ Hasil pemrosesan dikirim kembali ke pengguna
 
 Efisiensi numerik tertentu belum dicantumkan sebagai hasil terverifikasi dalam dokumentasi ini. Klaim seperti persentase penghematan waktu sebaiknya ditambahkan hanya jika tersedia catatan pengukuran atau pembandingan yang dapat dijelaskan.
 
-## Batasan dan Catatan
-- Hasil bot bergantung pada ketersediaan, struktur, dan izin akses sumber data.
-- Kredensial API dan token bot tidak boleh disimpan di repository publik.
-- Informasi jaringan internal atau data operasional sensitif tidak boleh ditampilkan dalam screenshot atau contoh penggunaan.
-- Repository ini saat ini berisi dokumentasi ringkasan proyek. Source code yang telah disanitasi, contoh konfigurasi, serta bukti demonstrasi dapat ditambahkan untuk membantu pembaca memahami implementasi secara lebih menyeluruh.
-
-## Pengembangan Selanjutnya
-- Menambahkan source code yang sudah disanitasi dari token, kredensial, dan informasi internal.
-- Menyediakan file contoh konfigurasi seperti `.env.example` tanpa nilai rahasia.
-- Menambahkan diagram arsitektur dan screenshot demonstrasi dengan data dummy.
-- Mendokumentasikan perintah bot, penanganan kesalahan, serta langkah instalasi setelah implementasi diverifikasi.
-- Menambahkan evaluasi efisiensi berdasarkan pengukuran yang dapat dipertanggungjawabkan.
-
-
 ## Pengembang: Sela Putri Ismalia  
 
