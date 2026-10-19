@@ -85,5 +85,4 @@ Proyek ini berfokus pada integrasi Telegram Bot API dan layanan Google API untuk
 **Repository:** [BOT_TELKOM](https://github.com/selaputriismalia/BOT_TELKOM)  
 **Topik:** Python · Otomasi Data · Integrasi API · Jaringan FTTH/FTTX
 
-<!-- removed old heading -->
 
