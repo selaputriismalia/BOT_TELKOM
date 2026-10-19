@@ -1,4 +1,4 @@
-# Bot Automasi Data Jaringan FTTH/FTTX
+# Telkom-Network-Automation-Bot
 
 Bot Telegram berbasis Python yang dikembangkan dalam konteks kegiatan magang di PT Telkom Akses/Telkom untuk membantu proses pencarian dan validasi informasi jaringan FTTH/FTTX. Proyek ini mengeksplorasi pemanfaatan bot percakapan dan integrasi API agar akses data operasional dapat dilakukan melalui alur yang lebih praktis.
 
